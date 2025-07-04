@@ -69,21 +69,21 @@ Meskipun banyak proyek hijau digagas, tantangannya adalah:
 
 Berikut adalah ringkasan output dari 7 soal utama dan 1 bonus Machine Learning:
 
-### 📌 Soal 1: Efisiensi Emisi PLTS
+#### 📌 Soal 1: Efisiensi Emisi PLTS
 
-### 📌 Soal 2: Rata-rata CO₂ PLTM
+#### 📌 Soal 2: Rata-rata CO₂ PLTM
 
-### 📌 Soal 3: Status Sosial Proyek (Input Loop)
+#### 📌 Soal 3: Status Sosial Proyek (Input Loop)
 
-### 📌 Soal 4: Filter Proyek Berisiko Rendah
+#### 📌 Soal 4: Filter Proyek Berisiko Rendah
 
-### 📌 Soal 5: Total Investasi Lokasi Efisien
+#### 📌 Soal 5: Total Investasi Lokasi Efisien
 
-### 📌 Soal 6: Fungsi dengan Error Handling
+#### 📌 Soal 6: Fungsi dengan Error Handling
 
-### 📌 Soal 7: Rata-rata Output Energi
+#### 📌 Soal 7: Rata-rata Output Energi
 
-### 🎁 Bonus ML: Prediksi Daya Tarik Investasi
+#### 🎁 Bonus ML: Prediksi Daya Tarik Investasi
 
 ## 📈 Outcome dari Tugas Ini
 
